@@ -4,8 +4,8 @@ Hello, I'm Hyeil Jeong, a tenacious junior backend developer.
 My goal is to become a developer who has a good influence on people, thus I always struggle with how to achieve my goal.
 
 ### Skills
-
 <p>
+Backend : 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
@@ -14,14 +14,13 @@ My goal is to become a developer who has a good influence on people, thus I alwa
 </p>
 
 <p>
+Collaboration : 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </p>
 
 ### Contact
-Feel free to reach out if you want to learn more about me or my works.
-
-I would me more than grateful to hear from you.
+Feel free to reach out if you want to learn more about me or my works. I would me more than grateful to hear from you.
 <p>
   <a href="https://www.linkedin.com/in/hyelie" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn"/>
@@ -35,12 +34,11 @@ I would me more than grateful to hear from you.
 </p>
 
 ### Portfolio
-You can see what I have been doing on below.
 <p>
-  <a href="https://hyelie.tistory.com" target="_blank">
-    <img src="https://img.shields.io/badge/Tech_Blog-000000?style=flat-square&logo=Tistory&logoColor=#000000"/>
-  </a>
   <a href="https://hyelie.site" target="_blank">
     <img src="https://img.shields.io/badge/homepage-E2EDFF?style=flat-square&logo=RSS&logoColor=3B82F6"/>
+  </a>
+  <a href="https://hyelie.tistory.com" target="_blank">
+    <img src="https://img.shields.io/badge/Tech_Blog-000000?style=flat-square&logo=Tistory&logoColor=#000000"/>
   </a>
 </p>
