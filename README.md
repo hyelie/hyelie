@@ -1,6 +1,6 @@
-<h2>
+<h1>
 👋 Hello there!
-</h2>
+</h1>
 
 I'm Hyeil Jeong, a tenacious backend developer.
 
