@@ -20,7 +20,7 @@ My goal is to become a developer who has a good influence on people, thus I alwa
 </p>
 
 ### Contact
-If you would like to know more about me or my work please visit [my website](https://hyelie.site) or feel free to contact me.
+If you would like to know more about me or my work, please visit [my website](https://hyelie.site) or feel free to contact me.
 <p>
   <a href="https://hyelie.tistory.com" target="_blank">
     <img src="https://img.shields.io/badge/Tech_Blog-000000?style=flat-square&logo=Tistory&logoColor=FFFFFF"/>
