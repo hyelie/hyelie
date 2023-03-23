@@ -19,7 +19,7 @@ My goal is to become a developer who has a good influence on people, thus I alwa
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </p>
 
-#### Contact
+#### Contacts
 If you would like to know more about me or my work please visit my website or feel free to contact me.
 <p>
   <a href="https://hyelie.tistory.com" target="_blank">
