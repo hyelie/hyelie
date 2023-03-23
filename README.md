@@ -2,11 +2,11 @@
 👋 Hello there!
 </h2>
 
-I'm Hyeil Jeong, a tanacious backend developer.
+I'm Hyeil Jeong, a tenacious backend developer.
 
 My goal is to become a developer who has a good influence on people, thus I always struggle with how to achieve my goal.
 
-#### Interests
+#### Interests these days
  - Clean code & Architecture
  - Refactoring
  
