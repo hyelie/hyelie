@@ -10,7 +10,7 @@ My goal is to become a developer who has a good influence on people, thus I alwa
  - Clean code & Architecture
  - Refactoring
  
-#### Skills
+### Skills
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
@@ -19,7 +19,7 @@ My goal is to become a developer who has a good influence on people, thus I alwa
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </p>
 
-#### Contact
+### Contact
 If you would like to know more about me or my work please visit [my website](https://hyelie.site) or feel free to contact me.
 <p>
   <a href="https://hyelie.tistory.com" target="_blank">
