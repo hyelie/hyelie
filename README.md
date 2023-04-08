@@ -6,6 +6,9 @@ I'm Hyeil Jeong, a tenacious backend developer.
 
 My goal is to become a developer who has a good influence on people, thus I always struggle with how to achieve my goal.
 
+- <b>I never leave broken windows unattended.</b> I always struggle to improve performance and code quality.
+- <b>I use rigorous proof to make the best decision for the situation.</b> I believe that the best choice can be made only by proving the tradeoff of all cases with tight logic and experimentation.
+
 ### Interests these days
  - Clean code & Architecture
  - Refactoring
